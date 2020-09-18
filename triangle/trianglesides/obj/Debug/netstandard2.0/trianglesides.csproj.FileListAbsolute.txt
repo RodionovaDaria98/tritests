@@ -1,0 +1,9 @@
+C:\Users\dasha\source\repos\triangle\trianglesides\bin\Debug\netstandard2.0\trianglesides.deps.json
+C:\Users\dasha\source\repos\triangle\trianglesides\bin\Debug\netstandard2.0\trianglesides.dll
+C:\Users\dasha\source\repos\triangle\trianglesides\bin\Debug\netstandard2.0\trianglesides.pdb
+C:\Users\dasha\source\repos\triangle\trianglesides\obj\Debug\netstandard2.0\trianglesides.csprojAssemblyReference.cache
+C:\Users\dasha\source\repos\triangle\trianglesides\obj\Debug\netstandard2.0\trianglesides.AssemblyInfoInputs.cache
+C:\Users\dasha\source\repos\triangle\trianglesides\obj\Debug\netstandard2.0\trianglesides.AssemblyInfo.cs
+C:\Users\dasha\source\repos\triangle\trianglesides\obj\Debug\netstandard2.0\trianglesides.csproj.CoreCompileInputs.cache
+C:\Users\dasha\source\repos\triangle\trianglesides\obj\Debug\netstandard2.0\trianglesides.dll
+C:\Users\dasha\source\repos\triangle\trianglesides\obj\Debug\netstandard2.0\trianglesides.pdb

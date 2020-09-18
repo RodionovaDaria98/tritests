@@ -1,0 +1,16 @@
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.exe
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.deps.json
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.json
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.dev.json
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.dll
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\trianglesides.dll
+C:\Users\dasha\source\repos\triangle\triangle\bin\Debug\netcoreapp3.1\trianglesides.pdb
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.csprojAssemblyReference.cache
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfoInputs.cache
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfo.cs
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.csproj.CoreCompileInputs.cache
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.csproj.CopyComplete
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.dll
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\dasha\source\repos\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.genruntimeconfig.cache

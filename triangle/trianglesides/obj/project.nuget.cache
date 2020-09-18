@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "abHmvh2ZjFQOfGIgvNesLzj9gdQ0iEfaSfN7xkmQPNqXrQ80iJkSrJpNPjEZrd41TLE259R8+wC9Oum1OMH1pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dasha\\source\\repos\\triangle\\trianglesides\\trianglesides.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dasha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
